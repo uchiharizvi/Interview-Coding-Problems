@@ -1,0 +1,28 @@
+Siemens Interview
+-------------------------
+Subjective
+-------------------------
+1) Explain WSDL Contents in detail with code snippet
+2) How do you make a Soap Service Secure
+3) What is UDDI
+4) How do you consumen Soap Service in your Application? Explain with code snippet?
+5) Explain the structure of soap message?
+6) Mention 5 different Soap and Rest Service? When to use Soap and When to use Rest?
+
+Programs
+------------------------
+1) WAP to find Minimum number in list of N integers(Hint : Use sorting algo)
+2) WAP to count letter and digits in a given String Secure
+3) WAP to sort url on basis of popularity and print number of unique urls and sorted order. Example
+Input
+https://www.hackerrank.com
+https://www.google.com
+https://imdb.com
+https://www.hackerrank.com
+https://www.imdb.com
+
+Output:
+3-- Number of unique urls
+https://www.imdb.com -- number of hits 2 but alphabetically comes first
+https://www.hackerrank.com --number of hits 2 but alphabetically comes below
+https://www.google.com -- number of hits less
