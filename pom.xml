@@ -12,6 +12,7 @@
         <module>src/main/java/com/interview/problems/sapient-productsearchservice</module>
         <module>src/main/java/com/interview/problems/ubs-bankingservice</module>
         <module>src/main/java/com/interview/problems/coding-problems</module>
+        <module>src/main/java/com/interview/problems/behavox-test-task</module>
     </modules>
 
     <properties>
@@ -19,5 +20,12 @@
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+            <version>2.4.1</version>
+        </dependency>
+    </dependencies>
 
 </project>

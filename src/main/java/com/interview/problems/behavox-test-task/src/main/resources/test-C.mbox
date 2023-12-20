@@ -1,0 +1,135 @@
+From - Mon Jun 05 09:57:31 2017
+References: <70482884-cc4f-6dd2-d856-89715e9d3340@behavox.com>
+Subject: Archived: Test 1
+To: alx@behavox.com
+From: Alexander Alexeev <alexander.alexeev@behavox.com>
+Organization: Behavox, Ltd
+X-Forwarded-Message-Id: <70482884-cc4f-6dd2-d856-89715e9d3340@behavox.com>
+Message-ID: <34ff063b-8278-6b63-ae74-4abd9616fe36@behavox.com>
+Date: Mon, 5 Jun 2017 09:52:55 +0300
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101
+ Thunderbird/45.8.0
+MIME-Version: 1.0
+In-Reply-To: <70482884-cc4f-6dd2-d856-89715e9d3340@behavox.com>
+Content-Type: multipart/mixed;
+ boundary="------------C004738977FDDB6FC5F9B2DE"
+
+This is a multi-part message in MIME format.
+--------------C004738977FDDB6FC5F9B2DE
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+--------------C004738977FDDB6FC5F9B2DE
+Content-Type: message/rfc822;
+ name="Test 1.eml"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="Test 1.eml"
+
+To: alx@behavox.com
+From: Alexander Alexeev <alexander.alexeev@behavox.com>
+Subject: Test 1
+Organization: Behavox, Ltd
+Message-ID: <70482884-cc4f-6dd2-d856-89715e9d3340@behavox.com>
+Date: Mon, 5 Jun 2017 09:31:47 +0300
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101
+ Thunderbird/45.8.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+This is first test message
+
+--------------C004738977FDDB6FC5F9B2DE--
+
+From - Mon Jun 05 09:57:31 2017
+References: <3d3a3c7a-3901-6883-bf7b-dc2b95033f31@behavox.com>
+Subject: Archived: Test 2
+To: alx@behavox.com
+From: Alexander Alexeev <alexander.alexeev@behavox.com>
+Organization: Behavox, Ltd
+X-Forwarded-Message-Id: <3d3a3c7a-3901-6883-bf7b-dc2b95033f31@behavox.com>
+Message-ID: <a6aee2f1-3ba7-94c6-4d31-af595988f36b@behavox.com>
+Date: Mon, 5 Jun 2017 09:56:37 +0300
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101
+ Thunderbird/45.8.0
+MIME-Version: 1.0
+In-Reply-To: <3d3a3c7a-3901-6883-bf7b-dc2b95033f31@behavox.com>
+Content-Type: multipart/mixed;
+ boundary="------------1037FFA41993330338068B52"
+
+This is a multi-part message in MIME format.
+--------------1037FFA41993330338068B52
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+--------------1037FFA41993330338068B52
+Content-Type: message/rfc822;
+ name="Test 2.eml"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="Test 2.eml"
+
+To: alx@behavox.com
+From: Alexander Alexeev <alexander.alexeev@behavox.com>
+Subject: Test 2
+Organization: Behavox, Ltd
+Message-ID: <3d3a3c7a-3901-6883-bf7b-dc2b95033f31@behavox.com>
+Date: Mon, 5 Jun 2017 09:40:32 +0300
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101
+ Thunderbird/45.8.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+This is second test message
+
+--------------1037FFA41993330338068B52--
+
+From - Mon Jun 05 09:57:31 2017
+References: <9daf0b50-fe57-c75a-ef88-f224012e1bf5@behavox.com>
+Subject: Archived: Test 3
+To: alx@behavox.com
+From: Alexander Alexeev <alexander.alexeev@behavox.com>
+Organization: Behavox, Ltd
+X-Forwarded-Message-Id: <9daf0b50-fe57-c75a-ef88-f224012e1bf5@behavox.com>
+Message-ID: <03f660f1-5244-4b8b-8b02-ec781b4a6bdd@behavox.com>
+Date: Mon, 5 Jun 2017 09:56:58 +0300
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101
+ Thunderbird/45.8.0
+MIME-Version: 1.0
+In-Reply-To: <9daf0b50-fe57-c75a-ef88-f224012e1bf5@behavox.com>
+Content-Type: multipart/mixed;
+ boundary="------------F47B62A4F562A789B43E8B83"
+
+This is a multi-part message in MIME format.
+--------------F47B62A4F562A789B43E8B83
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+--------------F47B62A4F562A789B43E8B83
+Content-Type: message/rfc822;
+ name="Test 3.eml"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="Test 3.eml"
+
+To: alx@behavox.com
+From: Alexander Alexeev <alexander.alexeev@behavox.com>
+Subject: Test 3
+Organization: Behavox, Ltd
+Message-ID: <9daf0b50-fe57-c75a-ef88-f224012e1bf5@behavox.com>
+Date: Mon, 5 Jun 2017 09:42:56 +0300
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101
+ Thunderbird/45.8.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+This is third test message
+
+--------------F47B62A4F562A789B43E8B83--
+

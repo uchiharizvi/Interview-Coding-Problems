@@ -1,0 +1,15 @@
+We have worked with the issue mentioned in this thread. It proved to be a well known issue and have a simple solution, that is; increase the memory for java process through -Xms and -Xmx java command line options. Below is a sample command,
+
+-Xms512m -Xmx1200m
+
+Alternatively, give a try to the custom build of Aspose.Email for Java that is attached to this post. Below are code samples for your reference,
+
+new MboxrdStorageReader(String fileName)
+MboxrdStorageReader reader = new MboxrdStorageReader(mboxFileName); try
+{ MailMessage msg; while ((msg = reader.readNextMessage()) != null) { System.out.println(msg.getSubject()); } } finally { if (reader != null) reader.dispose(); }
+
+new MboxrdStorageReader(com.aspose.email.ms.System.IO.Stream stream)
+FileStream stream = new FileStream(mboxFileName, FileMode.Open); MboxrdStorageReader reader = new MboxrdStorageReader(stream, false); try { MailMessage msg; while ((msg = reader.readNextMessage()) != null) { System.out.println(msg.getSubject()); } } finally { if (reader != null) reader.dispose(); }
+
+Please feed us back with results.
+Regards,
