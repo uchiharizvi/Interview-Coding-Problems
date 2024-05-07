@@ -49,5 +49,5 @@ public interface BankInterface {
 	 * @param amount
 	 * @return true if amount could be withdrawn; otherwise, return false.
 	 */
-	public boolean debit(Long accountNumber, double amount);
+	public boolean debit(Long accountNumber, double amount) throws Exception;
 }
