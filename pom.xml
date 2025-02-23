@@ -15,6 +15,7 @@
         <module>src/main/java/com/interview/problems/behavox-test-task</module>
         <module>src/main/java/com/interview/problems/callsign</module>
         <module>src/main/java/com/interview/problems/oracle</module>
+        <module>src/main/java/com/interview/problems/amazon</module>
 
 
     </modules>
